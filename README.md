@@ -1,4 +1,3 @@
-
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/aya-eldhna-376570220/">Aya Eldhna</a></h2>
 <p>I'm a passionate <strong>Flutter Developer</strong> and a <strong>Business Information Systems student</strong> from Egypt 🇪🇬.  
 Currently learning Flutter, building mini apps, practicing CS50, and working on improving my skills every single day 💙  
@@ -24,10 +23,7 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 
 <p>💙 Keep Going. Your future self will thank you.</p>
 
-
-<img align="right" src="https://media.tenor.com/9K8WGBm7xFkAAAAC/cat-computer-mouse-notebook-developer.gif" width="220" alt="Cat coding GIF" />
-
-
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAzOHIwY3k1b3drZXI3OW5hZmt0dnUyeHVxdWJsaGlrdng1cDVjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="260" />
 
 ---
 
@@ -49,14 +45,26 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <h2>🚀 Some Tools I Use</h2>
 
 <p align="left">
+<!-- Flutter & Dart -->
 <img src="https://skillicons.dev/icons?i=dart" width="35" />
 <img src="https://skillicons.dev/icons?i=flutter" width="35" />
+
+<!-- IDEs & Tools -->
 <img src="https://skillicons.dev/icons?i=androidstudio" width="35" />
 <img src="https://skillicons.dev/icons?i=vscode" width="35" />
 <img src="https://skillicons.dev/icons?i=git" width="35" />
 <img src="https://skillicons.dev/icons?i=github" width="35" />
 <img src="https://skillicons.dev/icons?i=figma" width="35" />
+
+<!-- Web Basics -->
+<img src="https://skillicons.dev/icons?i=html" width="35" />
+<img src="https://skillicons.dev/icons?i=css" width="35" />
+<img src="https://skillicons.dev/icons?i=javascript" width="35" />
+
 </p>
+
+
+
 
 ---
 
@@ -71,7 +79,7 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <ul>
 <li>✔️ Finished learning the basics of <strong>Dart</strong>.</li>
 <li>✔️ Started building with <strong>Flutter</strong>.</li>
-<li>📱 Creating <strong>5 mini apps</strong> as practice.</li>
+<li>📱 Creating <strong>3 mini apps</strong> as practice.</li>
 <li>📘 Studying <strong>CS50</strong> & computer science fundamentals.</li>
 <li>🎯 Strengthening OOP, DSA, and problem solving.</li>
 <li>✨ Goal: Become a <strong>professional Mobile App Developer</strong>.</li>
