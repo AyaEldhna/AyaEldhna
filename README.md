@@ -24,7 +24,7 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 
 <p>💙 Keep Going. Your future self will thank you.</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" />
+
 
 ---
 
