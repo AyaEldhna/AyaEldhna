@@ -56,9 +56,6 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayaeldhna&show_icons=true&count_private=true" />
 
 ---
 
