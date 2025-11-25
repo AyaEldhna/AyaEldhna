@@ -45,14 +45,24 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <h2>🚀 Some Tools I Use</h2>
 
 <p align="left">
+<!-- Flutter & Dart -->
 <img src="https://skillicons.dev/icons?i=dart" width="35" />
 <img src="https://skillicons.dev/icons?i=flutter" width="35" />
+
+<!-- IDEs & Tools -->
 <img src="https://skillicons.dev/icons?i=androidstudio" width="35" />
 <img src="https://skillicons.dev/icons?i=vscode" width="35" />
 <img src="https://skillicons.dev/icons?i=git" width="35" />
 <img src="https://skillicons.dev/icons?i=github" width="35" />
 <img src="https://skillicons.dev/icons?i=figma" width="35" />
+
+<!-- Web Basics -->
+<img src="https://skillicons.dev/icons?i=html" width="35" />
+<img src="https://skillicons.dev/icons?i=css" width="35" />
+<img src="https://skillicons.dev/icons?i=javascript" width="35" />
+
 </p>
+
 
 ---
 
