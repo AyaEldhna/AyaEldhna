@@ -1,49 +1,24 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/aya-eldhna-376570220/">Aya Eldhna</a></h2>
-<p>I'm a passionate <strong>Flutter Developer</strong> and a <strong>Business Information Systems student</strong> from Egypt 🇪🇬.  
-Currently learning Flutter, building mini apps, practicing CS50, and working on improving my skills every single day 💙  
-I love creating clean UIs, solving problems, and growing step by step toward becoming a professional mobile developer.</p>
+<h2>Hey 👋, I'm Aya Eldhna</h2>
+<p>I'm a Mobile App Developer learning <strong>Dart</strong> & <strong>Flutter</strong>, exploring APIs, and sharpening my skills in <strong>Problem Solving</strong> and <strong>Data Structures & Algorithms</strong>.</p>
 
 <p>
-<a href="https://www.linkedin.com/in/aya-eldhna-376570220/">
-<img src="https://img.shields.io/badge/-Aya%20Eldhna-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" />
-</a>
-
-<a href="https://github.com/ayaeldhna">
-<img src="https://img.shields.io/badge/-ayaeldhna-000000?style=flat-square&labelColor=000000&logo=github" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Flutter%20Journey-02569B?style=flat-square&labelColor=02569B&logo=flutter" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/-Learning%20Every%20Day-14c767?style=flat-square&labelColor=14c767" />
-</a>
+<a href="https://github.com/ayaeldhna"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/aya-eldhna-376570220"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
+<a href="https://ayaeldhna.github.io/"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=firefox" alt="Portfolio Badge"></a>
 </p>
 
-<p>💙 Keep Going. Your future self will thank you.</p>
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" />
-
----
+<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
-
 <ul>
-<li>🔭 I’m currently working on small <strong>Flutter mini apps</strong> to build my portfolio.</li>
-<li>🧠 Learning more about <strong>Dart, OOP, Data Structures, Algorithms</strong>.</li>
-<li>📱 Building UI practice screens & simple functional apps.</li>
-<li>📘 Studying <strong>Business Information Systems</strong> with an excellent grade (+85%).</li>
-<li>🎓 Taking <strong>CS50</strong> and aiming to get a strong certificate.</li>
-<li>💬 Ask me about <strong>Flutter, Dart, UI/UX basics, and beginner-friendly CS concepts</strong>.</li>
-<li>📄 My resume will be added soon.</li>
-<li>🎉 Fun Fact: I learn fast when I'm passionate, and I am VERY passionate about Flutter 💙.</li>
+<li>🔭 Currently learning <strong>Dart & Flutter</strong> for mobile app development.</li>
+<li>🧐 Exploring <strong>APIs, Problem Solving, and Data Structures & Algorithms</strong>.</li>
+<li>👩‍💻 Projects available on <a href="https://github.com/ayaeldhna">GitHub</a>.</li>
+<li>💬 Ping me about mobile dev, Flutter, or coding challenges.</li>
+<li>🎉 Fun Fact: I love coding with a cup of coffee ☕.</li>
 </ul>
 
----
-
-<h2>🚀 Some Tools I Use</h2>
-
+<h2>🚀 Tools & Skills</h2>
 <p align="left">
 <!-- Flutter & Dart -->
 <img src="https://skillicons.dev/icons?i=dart" width="35" />
@@ -60,32 +35,27 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <img src="https://skillicons.dev/icons?i=html" width="35" />
 <img src="https://skillicons.dev/icons?i=css" width="35" />
 <img src="https://skillicons.dev/icons?i=javascript" width="35" />
-
 </p>
 
-
----
-
-
----
-
-<h2>🌟 Current Learning Path</h2>
-
-<ul>
-<li>✔️ Finished learning the basics of <strong>Dart</strong>.</li>
-<li>✔️ Started building with <strong>Flutter</strong>.</li>
-<li>📱 Creating <strong>5 mini apps</strong> as practice.</li>
-<li>📘 Studying <strong>CS50</strong> & computer science fundamentals.</li>
-<li>🎯 Strengthening OOP, DSA, and problem solving.</li>
-<li>✨ Goal: Become a <strong>professional Mobile App Developer</strong>.</li>
-</ul>
-
----
-
-<h2>🦋 More About Me</h2>
+<h2>📊 GitHub Stats</h2>
 <p>
-I believe in consistency, self-growth, and becoming the best version of myself — mentally, emotionally, and professionally.  
-Every day I take one small step toward my dream career, and I’m proud of the journey I'm creating.
+<img src="https://github-readme-stats.vercel.app/api?username=AyaEldhna&show_icons=true&count_private=true&theme=react" alt="Aya GitHub Stats" />
 </p>
 
-<p><strong>💙 Thanks for visiting my profile — feel free to explore my projects!</strong></p>
+<h2>🌐 Top Languages</h2>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaEldhna&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+<h2>✒️ Recent Projects / Posts</h2>
+<details>
+    <summary>Explore</summary>
+    <ul>
+        <li><a href="#">Project 1 — Flutter App</a></li>
+        <li><a href="#">Project 2 — API Integration</a></li>
+        <li><a href="#">Project 3 — Data Structures Challenge</a></li>
+    </ul>
+</details>
+
+<p><a href="https://github.com/ayaeldhna">Read More Projects</a></p>
+
