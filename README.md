@@ -67,10 +67,10 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <ul>
 <li>✔️ Finished learning the basics of <strong>Dart</strong>.</li>
 <li>✔️ Started building with <strong>Flutter</strong>.</li>
-<li>📱 Creating <strong>3 mini apps</strong> as practice.</li>
+<li>📱 Creating <strong>5 mini apps</strong> as practice.</li>
 <li>📘 Studying <strong>CS50</strong> & computer science fundamentals.</li>
 <li>🎯 Strengthening OOP, DSA, and problem solving.</li>
-<li>✨ Goal: Become a <strong>professional Frontend Mobile Developer</strong>.</li>
+<li>✨ Goal: Become a <strong>professional Mobile App Developer</strong>.</li>
 </ul>
 
 ---
@@ -82,4 +82,3 @@ Every day I take one small step toward my dream career, and I’m proud of the j
 </p>
 
 <p><strong>💙 Thanks for visiting my profile — feel free to explore my projects!</strong></p>
-
