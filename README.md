@@ -25,6 +25,9 @@ I love creating clean UIs, solving problems, and growing step by step toward bec
 <p>💙 Keep Going. Your future self will thank you.</p>
 
 
+<img align="right" src="https://media.tenor.com/9K8WGBm7xFkAAAAC/cat-computer-mouse-notebook-developer.gif" width="220" alt="Cat coding GIF" />
+
+
 
 ---
 
